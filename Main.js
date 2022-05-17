@@ -12,6 +12,7 @@ import {
 } from "react-native";
 import { Camera } from "expo-camera";
 import * as FaceDetector from "expo-face-detector";
+
 import { RFPercentage, RFValue } from "react-native-responsive-fontsize";
 
 import Filter from "../components/Filter";
